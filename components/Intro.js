@@ -24,7 +24,7 @@ export default function Intro() {
             <button
               onClick={(e) => {
                 e.preventDefault();
-                window.location.href = "https://www.google.com/";
+                window.location.href = "https://github.com/ramrabadi/ramrabadi.github.io/raw/main/Documents/Resume%20-%20Ramez%20Al-Rabadi.pdf";
               }}
               class="btn btn-secondary btn-active"
               role="button"
