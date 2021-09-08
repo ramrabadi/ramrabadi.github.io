@@ -1,6 +1,6 @@
 ## Description
 
-_This repo is used to host the static assests for personal website on Github Pages. It uses Github Actions to automate workflow with npm for Node.js._
+_This repo is used to host the static assets for personal website on Github Pages. It uses Github Actions to automate workflow with npm for Node.js._
 
 ## Technologies Used
 
