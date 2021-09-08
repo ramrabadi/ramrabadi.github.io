@@ -4,8 +4,8 @@ _This repo is used to host the static assets for personal website on Github Page
 
 ## Technologies Used
 
-_Node.js_
-_Next.js (React Framework)_
-_Tailwind CSS_
-_Github Pages_
-_Github Actions_
+* _Node.js_
+* _Next.js (React Framework)_
+* _Tailwind CSS_
+* _Github Pages_
+* _Github Actions_
