@@ -22,7 +22,7 @@ export default function Intro() {
           <p>I am seeking a full-time position as a Software Engineer.</p>
           <div class="card-actions">
             <a
-              href="https://github.com/ramrabadi/ramrabadi.github.io/raw/main/Documents/Resume%20-%20Ramez%20Al-Rabadi.pdf"
+              href="https://raw.githubusercontent.com/ramrabadi/ramrabadi.github.io/f66d0276effef695d34f93684a70cf09a39c9948/Documents/Resume%20-%20Ramez%20Al-Rabadi.pdf"
               class="btn btn-secondary btn-active"
               role="button"
               aria-pressed="true"
