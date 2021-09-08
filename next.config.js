@@ -1,4 +1,4 @@
 module.exports = {
-  basePath: "/",
-  basePath: "/",
+  basePath: "",
+  basePath: "",
 };
