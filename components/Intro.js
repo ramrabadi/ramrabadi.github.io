@@ -21,17 +21,14 @@ export default function Intro() {
           </p>
           <p>I am seeking a full-time position as a Software Engineer.</p>
           <div class="card-actions">
-            <button
-              onClick={(e) => {
-                e.preventDefault();
-                window.location.href = "https://github.com/ramrabadi/ramrabadi.github.io/raw/main/Documents/Resume%20-%20Ramez%20Al-Rabadi.pdf";
-              }}
+            <a
+              href="https://github.com/ramrabadi/ramrabadi.github.io/raw/main/Documents/Resume%20-%20Ramez%20Al-Rabadi.pdf"
               class="btn btn-secondary btn-active"
               role="button"
               aria-pressed="true"
             >
               Download My Resume!
-            </button>
+            </a>
           </div>
         </div>
       </div>

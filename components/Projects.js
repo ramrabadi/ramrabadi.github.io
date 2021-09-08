@@ -18,7 +18,13 @@ export default function Projects() {
               </p>
               <div class="flex justify-center py-8 bg-base-200">
                 <div class="btn-group">
-                  <button class="btn btn-lg btn-info">View Github</button>
+                  <a
+                    target="_blank"
+                    href="https://github.com/ramrabadi/Self-guided-College-Tour"
+                    class="btn btn-lg btn-info"
+                  >
+                    View Github
+                  </a>
                 </div>
               </div>
             </div>
