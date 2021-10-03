@@ -1,16 +1,14 @@
 import Container from "../components/Container";
 import Footer from "../components/Footer";
-import Contact from "../components/Contact";
-import Projects from "../components/Projects";
-import Intro from "../components/Intro";
+import ContactComponent from "../components/ContactComponent";
+import ProjectsComponent from "../components/ProjectsComponent";
+import Hero from "../components/Hero";
+import AboutComponent from "../components/AboutComponent";
 
 export default function Home() {
   return (
     <Container>
-      <Intro />
-      <Contact />
-      <Projects />
-      <Footer />
+      <Hero />
     </Container>
   );
 }

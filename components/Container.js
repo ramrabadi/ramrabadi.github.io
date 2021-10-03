@@ -6,14 +6,14 @@ export default function Container(props) {
   const { children, ...customMeta } = props;
   const meta = {
     title: "Ramez Al-Rabadi – Personal Website.",
-    description: `Personal Page`,
+    description: `Personal Portfolio Website`,
     type: "website",
     ...customMeta,
   };
 
   return (
     <div>
-      <html data-theme="synthwave">
+      <html>
         <Head>
           <title>{meta.title}</title>
           <meta name="robots" content="follow, index" />
@@ -24,7 +24,6 @@ export default function Container(props) {
           <meta property="og:title" content={meta.title} />
         </Head>
         <body>
-          <nav className="p-8"></nav>
           <main>{children}</main>
         </body>
       </html>
