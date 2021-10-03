@@ -12,11 +12,18 @@ export default function ContactComponent() {
           <p class="mb-5 text-2xl">Phone: 614-441-7268</p>
           <div className="flex justify-center space-x-4">
             <div data-tip="😊" class="tooltip">
-              <button class="btn btn-warning">LinkedIn</button>
+              <a
+                target="_blank"
+                href="https://www.linkedin.com/in/ramez-alrabadi/"
+              >
+                <button class="btn btn-warning">LinkedIn</button>
+              </a>
             </div>
-            <div data-tip="😃" class="tooltip">
-              <button class="btn btn-accent btn-active">Github</button>
-            </div>
+            <a target="_blank" href="https://github.com/ramrabadi/">
+              <div data-tip="😃" class="tooltip">
+                <button class="btn btn-accent btn-active">Github</button>
+              </div>
+            </a>
           </div>
         </div>
       </div>
