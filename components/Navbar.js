@@ -14,7 +14,7 @@ function Navbar() {
                 <figure>
                   <div>
                     <div class="rounded-full w-24 h-24">
-                      <img src="https://i.imgur.com/Zt9sdru.png" />
+                      <img src="/assets/img/me.png" />
                     </div>
                   </div>
                 </figure>
