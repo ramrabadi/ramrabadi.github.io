@@ -63,7 +63,7 @@ Start the development server
 ✔️ Projects \
 ✔️ Contact 
 
-## Tools Used 🛠️
+## Tech Stack 🛠️
 * _Node.js_
 * _Next.js (React Framework)_
 * _Tailwind CSS_
