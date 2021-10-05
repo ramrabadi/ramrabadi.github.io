@@ -6,8 +6,10 @@ import Container from "../components/Container";
 export default function portfolio() {
   return (
     <div>
-      <Navbar />
-      <AboutComponent />
+      <Container>
+        <Navbar />
+        <AboutComponent />
+      </Container>
     </div>
   );
 }
