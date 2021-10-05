@@ -6,7 +6,7 @@ import "react-typed/dist/animatedCursor.css";
 export default function Hero() {
   return (
     <div class="hero min-h-screen bg-base-200 overflow-auto">
-      <div class="text-center hero-content">
+      <div class="text-white text-center hero-content">
         <div class="max-w-md">
           <h1 class="mb-5 text-5xl font-bold">Hi, I'm Ramez</h1>
           <p className="text-lg"> I am a </p>
