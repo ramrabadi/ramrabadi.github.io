@@ -13,7 +13,7 @@ export default function Container(props) {
 
   return (
     <div>
-      <html>
+      <html data-theme="dark">
         <Head>
           <title>{meta.title}</title>
           <meta name="robots" content="follow, index" />
