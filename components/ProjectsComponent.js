@@ -5,7 +5,7 @@ export default function ProjectsComponent() {
     <div class="hero min-h-screen bg-base-200 overflow-auto">
       <div class="text-center hero-content">
         <div class="min-w-screen">
-          <h1 class="mb-8 text-6xl font-bold underline">Projects</h1>
+          <h1 class="mb-8 text-white text-6xl font-bold underline">Projects</h1>
           <div class="space-x-4">
             <div class="mockup-phone border-primary">
               <div class="camera"></div>
