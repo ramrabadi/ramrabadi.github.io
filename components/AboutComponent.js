@@ -26,14 +26,14 @@ export default function AboutComponent() {
             University.
           </p>
           <p class="text-white font-mono mb-8 text-lg">
-            🌇 I am from Columbus, Ohio.
+            🌇 I am located in Columbus, Ohio.
           </p>
           <p class="text-white font-mono mb-8 text-lg">
             🧑‍🔬 I am seeking a full time Software Development position.
           </p>
           <p class="text-white font-mono mb-1 text-lg">I have experience in:</p>
           <p class="text-white font-semibold mb-1 text-lg">
-            ☕ Languages such as Java, Python, SQL, and Javascript.
+            ☕ Languages such as Java, C++, Python, SQL, and Javascript.
           </p>
           <p class="text-white font-semibold mb-1 text-lg">
             🖼️ Frameworks such as Angular, React, and Spring.
