@@ -36,10 +36,13 @@ export default function AboutComponent() {
             ☕ Languages such as Java, C++, Python, SQL, and Javascript.
           </p>
           <p class="text-white font-semibold mb-1 text-lg">
-            🖼️ Frameworks such as Angular, React, and Spring.
+            🖼️ Frameworks such as Angular, React, and SpringBoot.
+          </p>
+          <p class="text-white font-semibold mb-1 text-lg">
+            🖼️ OOP principles, CI/CD tools, MicroServices, and REST APIs.
           </p>
           <p class="text-white font-semibold mb-8 text-lg">
-            💾 Databases such as MySQL and PostgresSQL.
+            💾 Relational databases such as MySQL, Oracle, and DB2.
           </p>
           <p class="text-white font-mono mb-8 text-lg">
             💻 I have a passion for visualizing, designing, and developing
