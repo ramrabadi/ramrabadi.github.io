@@ -1,12 +1,10 @@
 import Head from "next/head";
-import { useRouter } from "next/router";
-import { useTheme } from "next-themes";
 
 export default function Container(props) {
   const { children, ...customMeta } = props;
   const meta = {
-    title: "Ramez Al-Rabadi – Personal Website.",
-    description: `Personal Portfolio Website`,
+    title: "Ramez's Portfolio Website",
+    description: `Website that details my past experience, projects, and skills.`,
     type: "website",
     ...customMeta,
   };

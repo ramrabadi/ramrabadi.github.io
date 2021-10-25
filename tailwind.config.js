@@ -8,5 +8,10 @@ module.exports = {
   variants: {
     extend: {},
   },
+  daisyui: {
+    styled: true, // set false if you only need the skeleton of components
+    themes: true, // set false if you dont need DaisyUI themes
+    rtl: false, // set true if your <body> has dir="rtl"
+  },
   plugins: [require("daisyui")],
 };

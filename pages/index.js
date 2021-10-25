@@ -1,14 +1,20 @@
 import Container from "../components/Container";
-import Footer from "../components/Footer";
-import ContactComponent from "../components/ContactComponent";
-import ProjectsComponent from "../components/ProjectsComponent";
+import Contact from "../components/Contact";
+import Projects from "../components/Project";
 import Hero from "../components/Hero";
-import AboutComponent from "../components/AboutComponent";
+import About from "../components/About";
+import Footer from "../components/Footer";
+import Skills from "../components/Skills";
 
 export default function Home() {
   return (
     <Container>
       <Hero />
+      <About />
+      <Projects />
+      <Skills />
+      <Contact />
+      <Footer />
     </Container>
   );
 }
