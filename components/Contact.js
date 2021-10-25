@@ -18,7 +18,7 @@ export default function ContactComponent() {
   return (
     <div className="hero bg-base-200 overflow-auto">
       <div className="container mx-auto">
-        <h1 className="text-white text-5xl mt-5 mb-10 text-center">
+        <h1 className="text-white text-5xl mt-5 mb-20 text-center">
           👤 Contact
         </h1>
         <div className="container mx-auto">
