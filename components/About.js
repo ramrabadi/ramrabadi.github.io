@@ -18,7 +18,7 @@ export default function AboutComponent() {
               </h2>
               <div className="flex items-center justify-center mt-10">
                 <a
-                  href="https://nbviewer.org/github/ramrabadi/ramrabadi.github.io/blob/main/Documents/Resume.pdf"
+                  href="https://nbviewer.org/github/ramrabadi/ramrabadi.github.io/blob/main/documents/Resume.pdf"
                   className="btn btn-secondary btn-active mb-8"
                   role="button"
                   aria-pressed="true"
