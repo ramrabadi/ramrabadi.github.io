@@ -2,7 +2,7 @@ import React from "react";
 
 export default function ProjectsComponent() {
   return (
-    <div className="hero bg-base-200 overflow-auto">
+    <div className="hero bg-base-200">
       <div className="text-center">
         <h1 className="text-white text-5xl mt-5 text-center">💻 Projects</h1>
         <section className="container mx-auto py-8 md:py-8 antialiased">

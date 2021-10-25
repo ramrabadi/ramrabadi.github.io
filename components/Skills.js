@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Skills() {
   return (
-    <div className="hero overflow-auto">
+    <div className="hero">
       <div className="container mx-auto">
         <h1 className="text-white text-5xl mt-5 mb-10 text-center">
           🤹 Skills

@@ -2,7 +2,7 @@ import React from "react";
 
 export default function AboutComponent() {
   return (
-    <div className="hero overflow-auto">
+    <div className="hero">
       <div className="text-center">
         <h1 className="text-white text-5xl mt-5 text-center">🧍About Me</h1>
         <section className="container mx-auto py-8 md:py-8 antialiased">
