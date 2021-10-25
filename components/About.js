@@ -13,7 +13,7 @@ export default function AboutComponent() {
                 src="https://sdk.bitmoji.com/render/panel/e0c8b93f-c246-46e8-9db2-ec0cb01ec9eb-97f1b30e-9806-40d9-9381-1f51d2c35156-v1.png?transparent=1&palette=1"
                 alt=""
               />
-              <h2 className="text-center text-3xl mt-8 min-h-18 px-12">
+              <h2 className="text-center text-white text-3xl mt-8 min-h-18 px-12">
                 👋🏽 Hi, my name is Ramez.
               </h2>
               <div className="flex items-center justify-center mt-10">
@@ -35,10 +35,10 @@ export default function AboutComponent() {
                 src="https://sdk.bitmoji.com/render/panel/2f46d66f-a6f6-4e29-beed-4eb2aa6881fd-97f1b30e-9806-40d9-9381-1f51d2c35156-v1.png?transparent=1&palette=1"
                 alt=""
               />
-              <h2 className="text-center text-3xl mt-8 min-h-18 px-12">
+              <h2 className="text-center text-white text-3xl mt-8 min-h-18 px-12">
                 🎓 Recent Grad
               </h2>
-              <p className="m-4 text-lg p-4 leading-relaxed text-center">
+              <p className="m-4 text-lg p-4 leading-relaxed text-center text-white">
                 I recently graduated with a Bachelor of Science in Computer
                 Science from the Russ College of Engineering and Technology at
                 Ohio University.
@@ -51,10 +51,10 @@ export default function AboutComponent() {
                 src="https://sdk.bitmoji.com/render/panel/5e96d886-b7c3-4d3b-b7a1-84f7ea767855-97f1b30e-9806-40d9-9381-1f51d2c35156-v1.png?transparent=1&palette=1"
                 alt=""
               />
-              <h2 className="text-center text-3xl mt-8 min-h-18 px-12">
+              <h2 className="text-center text-white text-3xl mt-8 min-h-18 px-12">
                 🔎 Looking for opportunities
               </h2>
-              <p className="m-4 text-lg p-4 leading-relaxed text-center ">
+              <p className="m-4 text-lg p-4 leading-relaxed text-center text-white">
                 I am currently seeking a full time Software Development
                 position.
               </p>

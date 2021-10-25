@@ -6,7 +6,7 @@ import GithubCorner from "react-github-corner";
 export default function HeroComponent() {
   return (
     <div className="hero min-h-screen bg-base-200 overflow-auto">
-      <div className="text-white text-center hero-content">
+      <div className="text-center hero-content">
         <div className="max-w-md">
           <h1 className="mb-5 text-5xl font-bold">Ramez Al-Rabadi</h1>
           <div className="text-3xl text-green-400">

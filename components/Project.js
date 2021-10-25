@@ -13,14 +13,14 @@ export default function ProjectsComponent() {
                 src="https://i.imgur.com/V7iUr3u.png"
                 alt=""
               />
-              <h2 className="text-center text-3xl mt-8 min-h-18 px-12">
+              <h2 className="text-center text-white text-3xl mt-8 min-h-18 px-12">
                 🛰️ Self-guided College Tour System
               </h2>
               <div className="mt-5">
                 <div className="badge badge-error">Java</div>
                 <div className="badge badge-info">Kotlin</div>
                 <div className="badge badge-warning">Android Studio</div>
-                <p className="m-4 text-lg p-4 leading-relaxed text-center">
+                <p className="m-4 text-lg p-4 leading-relaxed text-center text-white">
                   Android application that incorporates text, voice, and
                   location awareness to help students take a self-guided tour of
                   the Stocker Center at Ohio University.
@@ -45,7 +45,7 @@ export default function ProjectsComponent() {
                 src="https://cdn-icons-png.flaticon.com/512/912/912216.png"
                 alt=""
               />
-              <h2 className="text-center text-3xl mt-8 min-h-18 px-12">
+              <h2 className="text-center text-white text-3xl mt-8 min-h-18 px-12">
                 🧑‍💼 Employee Manager System
               </h2>
               <div className="mt-5">
@@ -53,7 +53,7 @@ export default function ProjectsComponent() {
                 <div className="badge badge-info">MySQL</div>
                 <div className="badge badge-warning">Spring Boot</div>
                 <div className="badge badge-success">Angular</div>
-                <p className="m-4 text-lg p-4 leading-relaxed text-center">
+                <p className="m-4 text-lg p-4 leading-relaxed text-center text-white">
                   A full-stack application that allows allow users to
                   dynamically update and manage their business. Functionality
                   includes accessing, adding, updating, or deleting an employee.
@@ -78,14 +78,14 @@ export default function ProjectsComponent() {
                 src="https://cdn-icons-png.flaticon.com/512/3050/3050525.png"
                 alt=""
               />
-              <h2 className="text-center text-3xl mt-8 min-h-18 px-12">
+              <h2 className="text-center text-3xl mt-8 min-h-18 px-12 text-white">
                 💬 Team Collaboration App
               </h2>
               <div className="mt-5">
                 <div className="badge badge-error">React</div>
                 <div className="badge badge-success">Node.js</div>
                 <div className="badge badge-warning">Express.js</div>
-                <p className="m-4 text-lg p-4 leading-relaxed text-center ">
+                <p className="m-4 text-lg p-4 leading-relaxed text-center text-white">
                   A web application in React and NodeJS designed for team
                   collaboration, featuring direct messaging, group messaging,
                   chat channels, GIF support, and search functionality.
