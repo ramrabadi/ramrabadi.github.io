@@ -86,9 +86,9 @@ export default function ProjectsComponent() {
                 <div className="badge badge-success">Node.js</div>
                 <div className="badge badge-warning">Express.js</div>
                 <p className="m-4 text-lg p-4 leading-relaxed text-center text-white">
-                  A web application in React and NodeJS designed for team
-                  collaboration, featuring direct messaging, group messaging,
-                  chat channels, GIF support, and search functionality.
+                  A web application designed for team collaboration, featuring
+                  direct messaging, group messaging, chat channels, GIF support,
+                  and search functionality.
                 </p>
               </div>
               <div className="flex items-center justify-center">
