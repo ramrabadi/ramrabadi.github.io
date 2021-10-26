@@ -10,7 +10,7 @@ export default function ProjectsComponent() {
             <article className="mx-auto max-w-sm pb-8 bg-cover bg-center cursor-pointer transform duration-500 hover:-translate-y-1 shadow-2xl rounded-xl border-2 border-success">
               <img
                 className="mx-auto mb-10 mt-10 w-40"
-                src="https://i.imgur.com/V7iUr3u.png"
+                src="https://cdn.jsdelivr.net/gh/ramrabadi/ramrabadi.github.io/assets/img/tour.png"
                 alt=""
               />
               <h2 className="text-center text-white text-3xl mt-8 min-h-18 px-12">
@@ -42,7 +42,7 @@ export default function ProjectsComponent() {
             <article className="mx-auto max-w-sm pb-8 bg-cover bg-center cursor-pointer transform duration-500 hover:-translate-y-1 shadow-2xl rounded-xl border-2 border-info">
               <img
                 className="mx-auto mb-10 mt-10 w-40"
-                src="https://cdn-icons-png.flaticon.com/512/912/912216.png"
+                src="https://cdn.jsdelivr.net/gh/ramrabadi/ramrabadi.github.io/assets/img/employee.png"
                 alt=""
               />
               <h2 className="text-center text-white text-3xl mt-8 min-h-18 px-12">
@@ -75,7 +75,7 @@ export default function ProjectsComponent() {
             <article className="mx-auto max-w-sm pb-8 bg-cover bg-center cursor-pointer transform duration-500 hover:-translate-y-1 shadow-2xl rounded-xl border-2 border-error">
               <img
                 className="mx-auto mb-10 mt-10 w-40"
-                src="https://cdn-icons-png.flaticon.com/512/3050/3050525.png"
+                src="https://cdn.jsdelivr.net/gh/ramrabadi/ramrabadi.github.io/assets/img/chat.png"
                 alt=""
               />
               <h2 className="text-center text-3xl mt-8 min-h-18 px-12 text-white">

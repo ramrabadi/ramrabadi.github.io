@@ -26,7 +26,7 @@ export default function ContactComponent() {
             <div className="flex justify-between mx-auto max-w-sm pb-8 bg-cover bg-center cursor-pointer transform duration-500 hover:-translate-y-1">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
-                className="h-12 w-12 fill-current text-white"
+                className="h-12 w-12"
                 fill="none"
                 viewBox="0 0 24 24"
                 stroke="currentColor"
@@ -51,7 +51,7 @@ export default function ContactComponent() {
             <div className="flex justify-between mx-auto max-w-sm pb-8 cursor-pointer transform duration-500 hover:-translate-y-1">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
-                className="h-12 w-12 fill-current text-white"
+                className="h-12 w-12 text-white"
                 fill="none"
                 viewBox="0 0 24 24"
                 stroke="currentColor"
@@ -75,7 +75,7 @@ export default function ContactComponent() {
                       <div data-tip="Copied" className="tooltip">
                         <svg
                           xmlns="http://www.w3.org/2000/svg"
-                          className="fill-current text-white h-8 w-8"
+                          className="h-8 w-8"
                           fill="none"
                           viewBox="0 0 24 24"
                           stroke="currentColor"
@@ -93,7 +93,7 @@ export default function ContactComponent() {
                         <svg
                           xmlns="http://www.w3.org/2000/svg"
                           data-tip="hello"
-                          className="fill-current text-white h-8 w-8"
+                          className="h-8 w-8"
                           fill="none"
                           viewBox="0 0 24 24"
                           stroke="currentColor"
@@ -114,7 +114,7 @@ export default function ContactComponent() {
             <div className="flex justify-between mx-auto max-w-sm pb-8 cursor-pointer transform duration-500 hover:-translate-y-1">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
-                className="h-12 w-12 fill-current text-white"
+                className="h-12 w-12"
                 fill="none"
                 viewBox="0 0 24 24"
                 stroke="currentColor"
