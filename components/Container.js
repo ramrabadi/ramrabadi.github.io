@@ -17,7 +17,11 @@ export default function Container(props) {
           <meta name="robots" content="follow, index" />
           <meta content={meta.description} name="description" />
           <meta property="og:type" content={meta.type} />
-          <meta property="og:site_name" content="Ramez Al-Rabadi" />
+          <meta property="og:site_name" content="Ramez's Portfolio Website" />
+          <meta
+            property="og:image"
+            content="https://cdn.jsdelivr.net/gh/ramrabadi/ramrabadi.github.io/assets/img/home.png"
+          />
           <meta property="og:description" content={meta.description} />
           <meta property="og:title" content={meta.title} />
         </Head>
