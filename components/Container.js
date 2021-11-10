@@ -23,6 +23,7 @@ export default function Container(props) {
             content="https://cdn.jsdelivr.net/gh/ramrabadi/ramrabadi.github.io/assets/img/home.png"
           />
           <meta property="og:description" content={meta.description} />
+          <meta property="og:url" content="ramrabadi.github.io" />
           <meta property="og:title" content={meta.title} />
         </Head>
         <body>
