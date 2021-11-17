@@ -7,15 +7,8 @@
 
 ### Website Preview
 
-#### Home Page
-![alt text](https://github.com/ramrabadi/ramrabadi.github.io/raw/main/preview_images/home_page.gif)
-
-
-#### About Page
-![alt text](https://github.com/ramrabadi/ramrabadi.github.io/raw/main/preview_images/about_page.jpg)
-
-#### Projects Page
-![alt text](https://github.com/ramrabadi/ramrabadi.github.io/raw/main/preview_images/projects_page.jpg)
+#### Hero Section
+![alt text](https://cdn.jsdelivr.net/gh/ramrabadi/ramrabadi.github.io/github_previews/hero.gif)
 
 
 ## Features 📋
@@ -38,7 +31,7 @@ Go to the project directory
   cd my-project
 ```
 
-Install dependencies
+Install dependencies (legacy-peer-deps is required because npm changed the behavior of peer deps and some dependencies haven't caught up)
 
 ```bash
   npm install --legacy-peer-deps
