@@ -8,7 +8,10 @@
 ### Website Preview
 
 #### Hero Section
-![alt text](https://cdn.jsdelivr.net/gh/ramrabadi/ramrabadi.github.io/github_previews/hero.gif)
+![hero](https://cdn.jsdelivr.net/gh/ramrabadi/ramrabadi.github.io/github_previews/hero.gif)
+
+#### About Section
+![about](https://raw.githubusercontent.com/ramrabadi/ramrabadi.github.io/main/github_previews/about.png)
 
 
 ## Features 📋
