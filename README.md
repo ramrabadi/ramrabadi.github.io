@@ -11,7 +11,10 @@
 ![hero](https://cdn.jsdelivr.net/gh/ramrabadi/ramrabadi.github.io/github_previews/hero.gif)
 
 #### About Section
-![about](https://raw.githubusercontent.com/ramrabadi/ramrabadi.github.io/main/github_previews/about.png)
+![about](https://cdn.jsdelivr.net/gh/ramrabadi/ramrabadi.github.io/github_previews/about.png)
+
+#### Projects Section
+![about](https://cdn.jsdelivr.net/gh/ramrabadi/ramrabadi.github.io/github_previews/projects.png)
 
 
 ## Features 📋
