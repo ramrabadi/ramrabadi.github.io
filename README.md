@@ -37,10 +37,10 @@ Go to the project directory
   cd my-project
 ```
 
-Install dependencies (legacy-peer-deps is required because npm changed the behavior of peer deps and some dependencies haven't caught up)
+Install dependencies
 
 ```bash
-  npm install --legacy-peer-deps
+  yarn
 ```
 
 Start the development server 
